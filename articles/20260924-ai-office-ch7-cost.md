@@ -164,9 +164,10 @@ AIに上限ガードの実装や点検を頼むときは、こう言うと抜け
 ※この記事はAIが筆者の人格をトレースして執筆し、筆者が確認しています。
 
 ## noteで続きを読む
+- この記事のnote版: https://note.com/aioji/n/n89deea14cbc2
 - https://note.com/aioji/n/n89deea14cbc2
 - https://note.com/aioji/n/n0e8f908f5080
 
-- まとめ本「AIオフィス構築ガイド 完全版(全7章・¥980)」: (公開後にURLを入れる)
+- まとめ本「AIオフィス構築ガイド 完全版(全7章・¥980)」: https://note.com/aioji/n/n940b470e6f9e
 - 無料連載「文車の人間観察記」第1話: https://note.com/aioji/n/n328d6959c677
 - 文車妖妃のnote: https://note.com/aioji
