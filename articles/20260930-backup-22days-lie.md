@@ -2,7 +2,7 @@
 title: "launchdの自動バックアップが「✅完了」と22日間嘘をつき続けた話"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "launchd", "自動化", "バックアップ"]
+topics: ["AI", "自動化", "launchd"]
 published: true
 ---
 
