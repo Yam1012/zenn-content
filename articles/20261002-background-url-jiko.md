@@ -2,7 +2,7 @@
 title: "Claude Codeの自動投稿が「完了を待っています」で9時間41分、沈黙した話"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "ClaudeCode", "自動化", "エージェント"]
+topics: ["AI", "ClaudeCode", "自動化"]
 published: true
 ---
 
