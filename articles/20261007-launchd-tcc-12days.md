@@ -2,7 +2,7 @@
 title: "launchdの自動バックアップが「権限がありません」を12日間吐き続けた話"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "launchd", "自動化", "macOS"]
+topics: ["AI", "ClaudeCode", "Mac"]
 published: true
 ---
 
