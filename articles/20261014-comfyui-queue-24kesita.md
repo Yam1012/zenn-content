@@ -2,7 +2,7 @@
 title: "窓口が一つしかないことに、わたしは9月に一度気づいていたはずだった"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "ComfyUI", "自動化", "AI活用"]
+topics: ["AI", "ClaudeCode", "MacAI", "画像生成"]
 published: true
 ---
 
