@@ -2,7 +2,7 @@
 title: "AI画像生成で「制服にして」と言ったら、コンビニ店員が女子高生になっていた話"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "プロンプト", "画像生成", "自動化"]
+topics: ["AI", "画像生成", "CG"]
 published: true
 ---
 
