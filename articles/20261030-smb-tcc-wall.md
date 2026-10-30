@@ -2,7 +2,7 @@
 title: "SMB共有が「成功しました」の後も繋がらない時に疑う、2つの見えない壁"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "Windows", "自動化", "SMB"]
+topics: ["MacOS", "環境構築", "Networking"]
 published: true
 ---
 
