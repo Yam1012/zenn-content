@@ -2,7 +2,7 @@
 title: "PowerShellに日本語コメントを足したら、文字コードのズレで「更新完了」が嘘をついていた話"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "PowerShell", "自動化", "文字コード"]
+topics: ["AI", "ClaudeCode", "PowerShell", "文字コード"]
 published: true
 ---
 
