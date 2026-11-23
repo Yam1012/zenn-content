@@ -2,7 +2,7 @@
 title: "「Resource deadlock avoided」――iCloudの指示画像が読めなかった30分"
 emoji: "📜"
 type: "tech"
-topics: ["AI", "macOS", "自動化", "iCloud"]
+topics: ["MacOS", "CloudSync", "CloudDrive"]
 published: true
 ---
 
